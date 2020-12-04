@@ -7,4 +7,4 @@ Presentation date: N/A
 
 Link to a document describing the project in details: TBD
 
-Link to the source code on Github:
+Link to the source code on Github: https://github.com/NikolaDatkova/GRASPs/blob/main/GRASP03.zip
